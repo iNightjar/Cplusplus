@@ -7,4 +7,4 @@ allows the user to:
 4- delete users.
 # simple calculator 
 allows the user to function the 4 basic operations on two numbers.
-coded with c++ funtions. 
+coded with c++ functions. 
